@@ -1,10 +1,13 @@
 import logo from './logo.svg';
 import './App.css';
 
+
+
 function App() {
   const nome = "Macedo"
 
   const url = 'https://via.placeholder.com/150'
+
   return (
     <div className="App">
       <p>Olá {nome}</p>
