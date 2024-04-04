@@ -14,3 +14,6 @@
  * Desenvolvimento de projectos
    ---
    ### [Link do curso](https://www.youtube.com/watch?v=20hlPRPVMoU&list=PLnDvRpP8BneyVA0SZ2okm-QBojomniQVO&index=8)
+
+   # Vamos colocar um Emoji
+   Emoji sorrir : ☺ 
